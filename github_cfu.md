@@ -2,3 +2,5 @@
 - git commit -m "Statement"
 - git push
 - git remote -v 
+- git brand -M main
+- git push -u origin main
