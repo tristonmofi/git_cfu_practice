@@ -1,0 +1,4 @@
+- git add [filename]
+- git commit -m "Statement"
+- git push
+- git remote -v 
